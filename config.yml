@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Billy G. Ram
           subtitle: "I am a researcher currently pursuing my PhD in Precision Agriculture at North Dakota State University."
-          imageUrl: "data/profile.jpg"
+          imageUrl: "/data/profile.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Billy Graham Ram
@@ -72,7 +72,7 @@ params:
               url: https://pmichaillat.substack.com
     socialIcons:
         - name: CV
-          url: data/cv2023.pdf
+          url: /data/cv2023.pdf
         - name: Email
           url: mailto:billy.ram@ndsu.edu
         - name: Location

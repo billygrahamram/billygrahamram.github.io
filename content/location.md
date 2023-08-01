@@ -3,7 +3,7 @@ title: "Location"
 aliases:
     - /contact.html
 hidemeta: true
-description: "My mailing and office addresses at the University of California, Santa Cruz."
+description: "My mailing and office addresses at North Dakota State University, Fargo."
 
 ---
 
@@ -11,19 +11,20 @@ description: "My mailing and office addresses at the University of California, S
 
 #### Mailing address
 
-Economics Department  
-UC Santa Cruz  
-1156 High Street  
-Santa Cruz, CA 95064
+
+Department of Agricultural and Biosystems Engineering
+1231 Albrecht Blvd,
+Fargo, ND 58102
+
 
 ---
 
 #### Office address
 
-Room 437  
-Engineering 2 Building  
-UC Santa Cruz
+Room 290
+VanEs Hall
+1523 Centennial Boulevard
+Fargo, ND 58102
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d203668.66166295038!2d-122.06180807362631!3d37.09743194165668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e4174e5b57475%3A0x97880f47ac591627!2sDepartment%20of%20Economics!5e0!3m2!1sen!2sus!4v1686026390720!5m2!1sen!2sus" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1051.595745872287!2d-96.80603461245431!3d46.89393889115078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52c8cbd51f9ede9d%3A0xb68eb93c048f4945!2sVan%20Es%20Hall!5e1!3m2!1sen!2sus!4v1690900982608!5m2!1sen!2sus" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
