@@ -56,20 +56,20 @@ params:
     profileMode:
           enabled: true
           title: Billy G. Ram
-          subtitle: "I am a researcher currently pursuing my PhD in Precision Agriculture at North Dakota State University."
-          imageUrl: "/profile.jpeg"
+          subtitle: "I am a researcher currently pursuing my PhD in Precision Agriculture at North Dakota State University. I am very enthusiastic about robotics and artificial intelligence. When I am not busy writing or taking care of my home plants, I like to do photography and videography"
+          imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Billy Graham Ram
           buttons:
-            - name: Papers
-              url: /papers/
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            # - name: Papers
+            #   url: /papers/
+            # - name: Courses
+            #   url: /courses/
+            # - name: Design
+            #   url: /design/
+            # - name: Newsletter
+            #   url: https://pmichaillat.substack.com
     socialIcons:
         - name: CV
           url: /cv2023.pdf
