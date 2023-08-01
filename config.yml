@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: pmichaillat
+    twitter: billygrahamram
 
 taxonomies:
     tag: tags
@@ -31,8 +31,8 @@ menu:
           weight: 4
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
-    author: Pascal Michaillat
+    description: "I am a researcher currently pursuing my PhD in Precision Agriculture at North Dakota State University."
+    author: Billy G. Ram
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -56,11 +56,11 @@ params:
     profileMode:
           enabled: true
           title: Billy G. Ram
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists and why it fluctuates over the business cycle. I also study how macroeconomic policies—including monetary policy, government spending, unemployment insurance, and immigration—should respond to such cyclical fluctuations."
-          imageUrl: "/picture.jpeg"
+          subtitle: "I am a researcher currently pursuing my PhD in Precision Agriculture at North Dakota State University."
+          imageUrl: "data/profile.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Pascal Michaillat
+          imageTitle: Billy Graham Ram
           buttons:
             - name: Papers
               url: /papers/
@@ -72,19 +72,19 @@ params:
               url: https://pmichaillat.substack.com
     socialIcons:
         - name: CV
-          url: /cv.pdf
+          url: data/cv2023.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:billy.ram@ndsu.edu
         - name: Location
           url: /location/
         - name: Office Hours
           url: /officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=YfPDQ0MAAAAJ&hl=en&authuser=2
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://www.youtube.com/@sowers7102
         - name: GitHub
-          url: https://github.com/pmichaillat?tab=repositories
+          url: https://github.com/billygrahamram
 
     assets:
         disableHLJS: true
@@ -93,7 +93,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Billy G. Ram"
       icon: /favicon.ico
       iconHeight: 18
 
