@@ -33,7 +33,7 @@ menu:
 params:
     description: "I am a researcher currently pursuing my PhD in Precision Agriculture at North Dakota State University."
     author: Billy G. Ram
-    googleAnalyticsID: "G-97G4MZ4061"
+    # googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Billy G. Ram
           subtitle: "I am a researcher currently pursuing my PhD in Precision Agriculture at North Dakota State University. I am very enthusiastic about robotics and artificial intelligence. When I am not busy writing or taking care of my home plants, I like to do photography and videography"
-          imageUrl: "/picture.jpeg"
+          imageUrl: "/picture.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Billy Graham Ram
