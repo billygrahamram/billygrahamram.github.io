@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Billy G. Ram
-          subtitle: "I am a researcher currently pursuing my PhD in Precision Agriculture at North Dakota State University. I am very enthusiastic about robotics and artificial intelligence. When I am not busy writing or taking care of my home plants, I like to do photography and videography"
+          subtitle: "Hey there! I’m a tech enthusiast pursuing PhD in Precision Agriculture at North Dakota State University. I’m all about machines, from simple engines to complex actuators. When I’m not writing, you can find me taking care of my plants or snapping some photos."
           imageUrl: "/picture.jpg"
           imageWidth: 160
           imageHeight: 160
