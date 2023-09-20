@@ -66,11 +66,11 @@ params:
               url: /papers/
             - name: Courses
               url: /courses/
-            - name: Design
-              url: /design/
-            - name: Sowers
-              url: "https://sowers.in/"
-              alt: "a non academic venture"
+            - name: News
+              url: /news/
+            # - name: Sowers
+              # url: "https://sowers.in/"
+              # alt: "a non academic venture"
           
     socialIcons:
         - name: CV
@@ -83,8 +83,8 @@ params:
           url: /officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=YfPDQ0MAAAAJ&hl=en&authuser=2
-        - name: YouTube
-          url: https://www.youtube.com/@sowers7102
+        # - name: YouTube
+        #   url: https://www.youtube.com/@sowers7102
         - name: GitHub
           url: https://github.com/billygrahamram
 
