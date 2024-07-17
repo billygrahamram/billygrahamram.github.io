@@ -77,7 +77,7 @@ params:
           
     socialIcons:
         - name: CV
-          url: /cv2023.pdf
+          url: /cv_july_2024.pdf
         - name: Email
           url: mailto:billy.ram@ndsu.edu
         - name: Location
