@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Billy G. Ram
-          subtitle: "Hey there! I’m a tech enthusiast pursuing PhD at North Dakota State University.
+          subtitle: "Hey there! I’m a tech enthusiast working as a postdoctoral researcher at North Dakota State University.
           My current research involves hyperspectral imaging, artificial intelligence and precision agriculture. I also work with drones (UAVs), robots and systems for high throughtput phenotyping.
           I believe in building things from scratch that can help the community at large.
           My hobbies are photography, cimematography and anything that can invoke an intellectual thought in me."
@@ -67,8 +67,8 @@ params:
           buttons:
             - name: Papers
               url: /papers/
-            - name: Courses
-              url: /courses/
+            #- name: Courses
+              #url: /courses/
             # - name: News
             #   url: /news/
             # - name: Sowers
@@ -77,7 +77,7 @@ params:
           
     socialIcons:
         - name: CV
-          url: /cv_july_2024.pdf
+          url: /CV_RamBilly.pdf
         - name: Email
           url: mailto:billy.ram@ndsu.edu
         - name: Location
