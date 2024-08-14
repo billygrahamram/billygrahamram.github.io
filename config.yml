@@ -31,7 +31,7 @@ menu:
           weight: 3
 
 params:
-    description: "I am a researcher currently pursuing my PhD in Precision Agriculture at North Dakota State University."
+    description: "I am a tech enthusiast working as a postdoctoral researcher at North Dakota State University"
     author: Billy G. Ram
     # googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -56,11 +56,11 @@ params:
     profileMode:
           enabled: true
           title: Billy G. Ram
-          subtitle: "Hey there! I’m a tech enthusiast working as a postdoctoral researcher at North Dakota State University.
-          My current research involves hyperspectral imaging, artificial intelligence and precision agriculture. I also work with drones (UAVs), robots and systems for high throughtput phenotyping.
+          subtitle: "Hey there! I am a technology enthusiast working as a postdoctoral researcher at North Dakota State University.
+          My current research involves hyperspectral imaging, artificial intelligence and robotics. I also work with drones (UAVs), robots and systems for high throughtput phenotyping.
           I believe in building things from scratch that can help the community at large.
           My hobbies are photography, cimematography and anything that can invoke an intellectual thought in me."
-          imageUrl: "/picture.jpg"
+          imageUrl: "/picture.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Billy Graham Ram
